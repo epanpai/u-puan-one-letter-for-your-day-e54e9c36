@@ -1,6 +1,8 @@
 # One Letter for Your Day — "C" for Coffee
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36)
+[![make.fun · u-puan-one-letter-for-your-day-e54e9c36](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/epanpai/u-puan-one-letter-for-your-day-e54e9c36/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/epanpai/u-puan-one-letter-for-your-day-e54e9c36/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
 Entry for the [make.fun bounty "One Letter for Your Day"](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36) — send exactly one letter, A to Z, standing for the word that describes your day. A judge model picks the letter whose hidden word feels most vivid, funniest, or truest.
 
